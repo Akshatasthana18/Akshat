@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## Projects
 
-- [Project 1](https://github.com/Akshatasthana18/project1): A brief description of what Project 1 does and its main features.
-- [Project 2](): A brief description of what Project 2 does and its main features.
+- [Logistic Regression](https://github.com/Akshatasthana18/Akshat/blob/main/logistic_regression.ipynb): A brief description of what Project 1 does and its main features.
+- [Data Cleaning Project](https://github.com/Akshatasthana18/Akshat/blob/main/data_cleaning_assignment_.ipynb): A brief description of what Project 2 does and its main features.
 
 ## Connect with Me
 
